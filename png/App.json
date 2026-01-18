@@ -1,0 +1,18 @@
+{
+  "apps": {
+    "app_001": {
+      "AppIcon": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/icon.png",
+      "AppName": "Stumble Guys",
+      "AppVersion": "1.2.5",
+      "AppMb": "45.2 MB",
+      "AppPackage": "com.company.photoeditor",
+      "AppPhoto1": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
+      "AppPhoto2": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
+      "AppPhoto3": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
+      "AppPhoto4": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
+      "AppDate": "18 Ocak 2026",
+      "AppFeatures": "Yapay zeka ile arka plan silme, 50+ yeni filtre, 4K dışa aktarma desteği."
+    }
+  }
+}
+
