@@ -1,86 +1,17 @@
 {
-  "new_releases": [
-    {
-      "AppIcon": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/icon.png",
-      "AppName": "Stumble Guys",
-      "AppVersion": "1.2.5",
-      "AppMb": "45.2 MB",
-      "AppPackage": "com.company.stumble",
-      "AppPhoto1": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto2": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto3": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto4": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppDate": "18 Ocak 2026",
-      "AppFeatures": "Yapay zeka ile arka plan silme, 50+ yeni filtre, 4K dışa aktarma desteği."
-    },
-    {
-      "AppIcon": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/icon.png",
-      "AppName": "Mini Craft",
-      "AppVersion": "2.0.1",
-      "AppMb": "32 MB",
-      "AppPackage": "com.company.minicraft",
-      "AppPhoto1": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto2": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto3": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto4": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppDate": "17 Ocak 2026",
-      "AppFeatures": "Blok inşa etme, macera modu, multiplayer desteği."
-    }
-  ],
-  "popular": [
-    {
-      "AppIcon": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/icon.png",
-      "AppName": "Crazy Racing",
-      "AppVersion": "3.5.0",
-      "AppMb": "78 MB",
-      "AppPackage": "com.company.crazyracing",
-      "AppPhoto1": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto2": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto3": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto4": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppDate": "10 Ocak 2026",
-      "AppFeatures": "Yarış modu, lider tabloları, 50 araç seçeneği."
-    },
-    {
-      "AppIcon": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/icon.png",
-      "AppName": "Puzzle Master",
-      "AppVersion": "1.9.3",
-      "AppMb": "25 MB",
-      "AppPackage": "com.company.puzzlemaster",
-      "AppPhoto1": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto2": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto3": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto4": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppDate": "5 Ocak 2026",
-      "AppFeatures": "Zeka bulmacaları, seviyeler, günlük ödüller."
-    }
-  ],
-  "all_apps": [
-    {
-      "AppIcon": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/icon.png",
-      "AppName": "Photo Editor Pro",
-      "AppVersion": "1.2.5",
-      "AppMb": "45.2 MB",
-      "AppPackage": "com.company.photoeditor",
-      "AppPhoto1": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto2": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto3": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto4": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppDate": "18 Ocak 2026",
-      "AppFeatures": "50+ filtre, 4K dışa aktarma, arka plan silme."
-    },
-    {
-      "AppIcon": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/icon.png",
-      "AppName": "Music Player X",
-      "AppVersion": "4.0.2",
-      "AppMb": "30 MB",
-      "AppPackage": "com.company.musicplayerx",
-      "AppPhoto1": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto2": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto3": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppPhoto4": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
-      "AppDate": "12 Ocak 2026",
-      "AppFeatures": "Playlist oluşturma, equalizer, offline mod."
-    }
-  ]
+"apps": {
+"app_001": {
+"AppIcon": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/icon.png",
+"AppName": "Stumble Guys",
+"AppVersion": "1.2.5",
+"AppMb": "45.2 MB",
+"AppPackage": "com.company.photoeditor",
+"AppPhoto1": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
+"AppPhoto2": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
+"AppPhoto3": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
+"AppPhoto4": "https://raw.githubusercontent.com/LindfxStore/LindfxStore/main/png/image.png",
+"AppDate": "18 Ocak 2026",
+"AppFeatures": "Yapay zeka ile arka plan silme, 50+ yeni filtre, 4K dışa aktarma desteği."
+}
+}
 }
